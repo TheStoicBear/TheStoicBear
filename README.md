@@ -1,5 +1,6 @@
 # 💫 About Me:
 🐻 Beary Funny<br>📘 Learning Each Day live<br>#️⃣ Virtual Identity Designer
+![43b545c3-f6f8-4a15-9238-0f0697988cd3](https://github.com/TheStoicBear/TheStoicBear/assets/112611821/802096b1-4bb5-490f-b099-69bd19bbf07b)
 
 
 ## 🌐 Socials:
