@@ -24,3 +24,41 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheStoicBear&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
+
+
+
+# Umbrella License
+
+
+Stoic's Resource License
+
+Version 1.0, July 2024
+
+This license applies to all current and future software, resources, and associated documentation files (collectively referred to as "Software") created by TheStoicBear, including but not limited to those found on https://github.com/TheStoicBear.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Software, to use, copy, modify, merge, publish, and distribute the Software, subject to the following conditions:
+
+1. **Non-Resale**: The Software, or any derivative works thereof, shall not be sold for profit. This includes, but is not limited to, any distribution in exchange for monetary or non-monetary compensation.
+
+2. **Non-Reupload**: The Software, or any derivative works thereof, shall not be reuploaded to any website, repository, or distribution platform other than the original distribution source (https://github.com/TheStoicBear) without explicit written permission from the original author. Any authorized reupload must include a copy of this license.
+
+3. **Attribution**: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+4. **Modification**: Modified versions of the Software must be plainly marked as such and must not be misrepresented as being the original Software. Any modifications must include a statement of changes made and the date of those changes.
+
+5. **Prohibited Uses**: The Software shall not be used for any illegal or unethical purposes. This includes, but is not limited to, activities that violate data privacy laws or contribute to harm or harassment.
+
+6. **Termination**: This license shall automatically terminate if you violate any of these restrictions and may be terminated by the original author at any time. Upon terminating your use of the Software or upon the termination of this license, you must destroy any copies of the Software in your possession whether in electronic or printed format.
+
+7. **Disclaimer**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. **Jurisdiction**: This license and any disputes arising from it shall be governed by and construed in accordance with the laws of the jurisdiction in which the original author resides, without regard to its conflict of law principles.
+
+By using the Software, you agree to the terms of this license. If you do not agree to the terms, do not use, copy, or modify the Software.
+
+Contact Information:
+TheStoicBear
+contactdiscordsolutions@gmail.com
+
